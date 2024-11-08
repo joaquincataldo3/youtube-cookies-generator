@@ -4,7 +4,7 @@
     "body-parser": "^1.20.3",
     "dotenv": "^16.4.5",
     "express": "^4.21.1",
-    "puppeteer": "^23.7.1"
+    "puppeteer": "^23.6.1"
   },
   "name": "download-video",
   "version": "1.0.0",
